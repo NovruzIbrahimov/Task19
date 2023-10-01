@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #343a40; 
+    margin: 0;
+    font-size: 16px;
+    color: white; 
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-danger {
+    background-color: red;
+}
+
+.bg-success {
+    background-color: green;
+}
+
+.display-3 {
+    font-size: 2em;
+}
